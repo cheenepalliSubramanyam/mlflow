@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/325299712074122497/49cf02fdffc942aca510d39b7d6673e7/artifacts
+end_time: 1746947898211
+entry_point_name: ''
+experiment_id: '325299712074122497'
+lifecycle_stage: active
+run_id: 49cf02fdffc942aca510d39b7d6673e7
+run_name: entertaining-kit-916
+run_uuid: 49cf02fdffc942aca510d39b7d6673e7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746947890761
+status: 3
+tags: []
+user_id: cheen
